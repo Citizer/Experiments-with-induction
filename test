@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main () {
-  cout << "Да здравствует наш новый президент!" << endl;
+  cout << "Да здравствует наш новый президент В.В. Путин!" << endl;
 }
